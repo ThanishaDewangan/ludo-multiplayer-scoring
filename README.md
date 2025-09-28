@@ -250,33 +250,6 @@ FRONTEND_URL=<your-frontend-url>
 SESSION_SECRET=<your-secret-key>
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create feature branch: `git checkout -b feature/amazing-feature`
-3. Commit changes: `git commit -m 'Add amazing feature'`
-4. Push to branch: `git push origin feature/amazing-feature`
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- Built for QreateAI Full Stack Developer intern hiring process
-- Inspired by traditional Ludo game rules
-- Enhanced with modern real-time scoring system
-- Uses best practices for MERN stack development
-
-## 📞 Support
-
-For questions or issues:
-- Create an issue in this repository
-- Contact: [your-email@example.com]
-
----
-
 **Happy Gaming! 🎲✨**
 
 > This project demonstrates advanced full-stack development skills including real-time systems, game logic, responsive UI, and scalable architecture.
